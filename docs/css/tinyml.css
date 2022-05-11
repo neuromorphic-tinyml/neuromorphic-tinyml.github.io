@@ -1,0 +1,20 @@
+.scheduled-date{
+    font-size: 25px;
+    margin-bottom: 1.2rem;
+}
+hr {
+    border-top: 2px solid white;
+    width: 65%;
+    margin: auto;
+}
+
+.scheduled-date > a {
+    text-decoration: none;
+    /* font-style: italic; */
+    color: #ffc800;
+}
+
+.scheduled-date > a:hover {
+    color: yellowgreen;
+}
+
